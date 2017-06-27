@@ -1,5 +1,5 @@
 # extracting-chinese-subs
-This repository contains code to extract Chinese hard subs from the TV series 他来了请闭眼 (*Love Me If You Dare*). 
+This  extracts Chinese hard subs from the TV series 他来了请闭眼 (*Love Me If You Dare*). 
 
 To get started, install OpenCV, Tesseract, the `chi_sim` data pack for Tesseract, and PyOCR. 
 ```
